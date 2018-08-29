@@ -1,2 +1,2 @@
 # ZxingTest
-Simple Barcode and QR Code Recogniser
+Simple Barcode and QR Code Recognizer
